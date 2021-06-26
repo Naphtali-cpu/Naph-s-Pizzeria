@@ -12,6 +12,7 @@ This project is a web application for Delani studio that shows details about the
 ## Contributors
 So far there are no contributors, but with time we will get to have some!
 
+
 ## Technologies Used
 * HTML5
 * CSS
@@ -21,6 +22,12 @@ So far there are no contributors, but with time we will get to have some!
 
 ## Known Bugs
 * So far there are unknown bugs in the site.
+
+## Behaviour Driven Development (BDD)
+|Behaviour 	           |    Input 	                 |       Output          |
+|----------------------------------------------|:-----------------------------------:|-----------------------------:|       
+|Page loads.                         |   User selects the pizza he would like to order customizing it with options for size, crust and toppings.                   |A price breakdown and grand total price will appear as well as a checkout button to confirm order.     |                       |
+
 
 ## Installation Instructions.
 * Create a file named README.md in the root (based) folder of the Git repo.
