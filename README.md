@@ -41,6 +41,7 @@ Here is my contact information;
 * Instagram @ _naphtalimakori
 * Facebook @ Naphtali McOrri
 * Linked In @ Naphtali Makori
+* Location @Ngong Road, Kenya
 ## Licence
 Licenced by
 
