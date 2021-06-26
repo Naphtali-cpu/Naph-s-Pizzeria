@@ -3,7 +3,6 @@
 ## Author
 Naphtali Makori
 
-![alt text](https://scontent.fnbo2-1.fna.fbcdn.net/v/t1.6435-9/47052425_566646967118417_7131414301583081472_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeEEBFqxyl0wDWIp9ftLq2aJivs6Xuj-Ic6K-zpe6P4hzqsiVfjalzRvKBvjMKBC9N3wsXOW7i68vPpWCEfytyMX&_nc_ohc=T6qfraxtzEAAX-0VYeH&_nc_ht=scontent.fnbo2-1.fna&oh=9ab1ef42f3d06255061472b16431abf7&oe=60D3C6F6)
 
 
 ## Description
