@@ -7,7 +7,7 @@ Naphtali Makori
 
 
 ## Description
-This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
+The Pizzeria is a fictional pizza house with multiple locations in Nairobi and this is a web application which allows users to make orders. The app has a variety of pizzas to choose from with various options of size, toppings and crust. The user can also request for delivery of the pizza and can order as many pizzas as he or she wishes. For this version, only one pizza is available to be ordered.
 
 ## Contributors
 So far there are no contributors, but with time we will get to have some!
