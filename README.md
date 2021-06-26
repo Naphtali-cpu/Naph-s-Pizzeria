@@ -21,7 +21,7 @@ So far there are no contributors, but with time we will get to have some!
 * Bootstrap
 
 ## Known Bugs
-* So far there are unknown bugs in the site.
+* After confirming order the forms is not resetting. 
 
 ## Behaviour Driven Development (BDD)
 |Behaviour 	           |    Input 	                 |       Output          |
