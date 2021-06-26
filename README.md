@@ -6,7 +6,7 @@ Naphtali Makori
 
 
 ## Description
-The Pizzeria is a fictional pizza house located in Nairobi and this is a web application which allows users to make orders. The app has a variety of pizzas to choose from with various options of size, toppings and crust. The user can also request for delivery of the pizza and can order as many pizzas as he or she wishes.
+The Pizzeria is a fictional pizza house located in Nairobi and this is a web application which allows users to make orders for their pizza they wish for. The app has a variety of pizzas to choose from with various options of size, toppings and crust. The user can also request for delivery of the pizza and can order as many pizzas as he or she wishes.
 
 ## Contributors
 So far there are no contributors, but with time we will get to have some!
