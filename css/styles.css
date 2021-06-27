@@ -6,7 +6,7 @@ body {
 }
 
 html {
-  scroll-behavior: fast;
+  scroll-behavior: smooth;
 }
 .navbar {
   background: rgba(0,0,0,0.4) !important;
