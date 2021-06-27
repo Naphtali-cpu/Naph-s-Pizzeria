@@ -19,7 +19,8 @@ So far there are no contributors, but with time we will get to have some!
 
 ## Known Bugs
 * After confirming order the forms is not resetting.
-* The background video in the header keeps on hanging/ does not play smoothly. 
+* The background video in the header keeps on hanging/ does not play smoothly.
+* The contact form in html and javascript is not submitting the message 
 
 ## Behaviour Driven Development (BDD)
 |Behaviour 	           |    Input 	                 |       Output          |
