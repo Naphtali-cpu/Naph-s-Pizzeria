@@ -51,3 +51,21 @@ function totalAmount() {
     alert("You order will be delivered shortly.Delivery fee is 100/= and incase you didn,t want it delivered please come for your order.");
   }
 }
+
+$(document).ready(function(){
+  $("form#form34A").submit(function(event){
+    // event.preventDefault();
+    var name = $("input#MERGE1").val();
+    var email = $("input#MERGE0").val();
+    var message = $("textarea#comment").val();
+    if ($("input#MERGE1").val() && $("input#MERGE0").val()){
+      alert (name + ", we have received your message. Thank you for reaching out to us.");
+    }
+    else {
+      alert("Please enter your name and email!");
+    }
+
+  });
+
+});
+
