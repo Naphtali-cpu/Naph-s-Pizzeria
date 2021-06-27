@@ -18,7 +18,8 @@ So far there are no contributors, but with time we will get to have some!
 * Bootstrap
 
 ## Known Bugs
-* After confirming order the forms is not resetting. 
+* After confirming order the forms is not resetting.
+* The background video in the header keeps on hanging/ does not play smoothly. 
 
 ## Behaviour Driven Development (BDD)
 |Behaviour 	           |    Input 	                 |       Output          |
